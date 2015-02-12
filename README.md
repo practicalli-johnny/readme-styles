@@ -30,6 +30,12 @@ The same clojure code, this time specifying the language (this works with Hexo)
   (str arg))
 ```
 
+# Other guides to Github styles
+It would be nice to have all the styles on one page, until then there are more examples in the following pages:
+
+* https://help.github.com/articles/writing-on-github/
+* https://help.github.com/articles/github-flavored-markdown/
+* https://help.github.com/articles/markdown-basics/
 
 # Creative Commons licence via html
 
